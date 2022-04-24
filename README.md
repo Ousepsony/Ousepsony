@@ -18,7 +18,7 @@
 ## Status
 
 ![GitHub followers](https://img.shields.io/github/followers/Ousepsony?label=Github&style=social)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Ousepsony/projects)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ousepsony/projects)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ousepsony/projects)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Ousepsony/projects)
 
