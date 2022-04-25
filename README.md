@@ -18,8 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousepsony&layout=compact)](https://github.com/Ousepsony)
 
+##Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ousepsony&repo=projects)](https://github.com/ousepsony/projects)
 
-![gif](https://raw.githubusercontent.com/Ousepsony/projects/main/files/916aadc9-4efe-4967-8314-5377102eacce.gif)
 ## Status
 
 ![GitHub followers](https://img.shields.io/github/followers/Ousepsony?label=Github&style=social)
