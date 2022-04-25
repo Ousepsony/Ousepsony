@@ -16,6 +16,8 @@
 ##### WordPress WYSIWYG editing with Elementor
 ##### Minecraft spigot/bukkit and datapack building
 
+[![languages used](https://github-readme-stats.vercel.app/api/wakatime?username=Ousepsony)](https://github.com/Ousepsony)
+
 
 ![gif](https://raw.githubusercontent.com/Ousepsony/projects/main/files/916aadc9-4efe-4967-8314-5377102eacce.gif)
 ## Status
