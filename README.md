@@ -3,6 +3,9 @@
 
 
 #### I am Ousep/Joseph, a student and currently learning Javascript;
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousepsony&show_icons=true&theme=radical)
+
 ## 🛠 Skills
 ##### Javascript, HTML, CSS.
 ##### Illustration and Wireframe
