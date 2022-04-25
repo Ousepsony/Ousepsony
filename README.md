@@ -19,6 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousepsony&layout=compact)](https://github.com/Ousepsony)
 
 ##Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ousepsony&repo=projects)](https://github.com/ousepsony/projects)
 
 ## Status
