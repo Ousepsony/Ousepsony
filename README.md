@@ -8,6 +8,7 @@
 
 ## 🛠 Skills
 ##### Javascript, HTML, CSS.
+##### AJAX
 ##### Illustration and Wireframe
 ##### Adobe Photoshop
 ##### Adobe Illustrator
@@ -36,14 +37,6 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](#)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](#)
 
-## Favourite Color Scheme
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Russian Red | ![#ff3b3f](https://via.placeholder.com/10/ff3b3f?text=+) #ff3b3f |
-| Powder Blue | ![#caebf2](https://via.placeholder.com/10/caebf2?text=+) #caebf2 |
-| Maroon Blue | ![#210052](https://via.placeholder.com/10/210052?text=+) #210052 |
-| Cultured    | ![#00d1a0](https://via.placeholder.com/10/f5f5f5?text=+) #f5f5f5 |
 
 
 ## 🔗 Links
