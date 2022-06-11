@@ -12,6 +12,7 @@
 ##### Adobe Photoshop
 ##### Adobe Illustrator
 ##### Basic Python
+##### Figma
 ##### UX/UI design pattern
 ##### WordPress WYSIWYG editing with Elementor
 ##### Minecraft spigot/bukkit and datapack building
